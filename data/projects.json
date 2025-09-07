@@ -1,0 +1,40 @@
+{
+  "f7c15e62-bec2-40b2-84b8-04f757171e6a": {
+    "id": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "name": "New",
+    "description": "",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "folderPath": "/home/runner/workspace/user_projects/New_f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "status": "running",
+    "template": "blank",
+    "nodeVersion": "18.17.0",
+    "createdAt": "2025-09-06T20:50:53.994Z",
+    "updatedAt": "2025-09-06T21:32:39.328Z",
+    "startupCommand": "node index.js"
+  },
+  "11ac2fd8-e576-48e0-86bb-6b0a581f59a3": {
+    "id": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "name": "Edward",
+    "description": "",
+    "userId": "admin",
+    "folderPath": "/home/runner/workspace/user_projects/Edward_11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "status": "stopped",
+    "template": "blank",
+    "nodeVersion": "18.17.0",
+    "createdAt": "2025-09-06T23:27:55.218Z",
+    "updatedAt": "2025-09-06T23:38:05.542Z",
+    "startupCommand": "npm install ; node edward-telegram.js"
+  },
+  "81488552-568d-4383-be42-d72642771a66": {
+    "id": "81488552-568d-4383-be42-d72642771a66",
+    "name": "Ibukuns",
+    "description": "",
+    "userId": "08146b67-6f51-4e12-8d4b-17390e4533ae",
+    "folderPath": "/home/runner/workspace/user_projects/Ibukuns_81488552-568d-4383-be42-d72642771a66",
+    "status": "archived",
+    "template": "blank",
+    "nodeVersion": "18.17.0",
+    "createdAt": "2025-09-07T23:14:51.769Z",
+    "updatedAt": "2025-09-07T23:16:06.127Z"
+  }
+}

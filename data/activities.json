@@ -1,0 +1,781 @@
+{
+  "88bfb480-2810-4cc2-a689-20d24f5ca010": {
+    "id": "88bfb480-2810-4cc2-a689-20d24f5ca010",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "user_registered",
+    "description": "User Eddy registered",
+    "metadata": null,
+    "createdAt": "2025-09-06T20:28:58.698Z"
+  },
+  "c5e46484-a827-4fd3-899b-b898e2348a4f": {
+    "id": "c5e46484-a827-4fd3-899b-b898e2348a4f",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Eddy logged in",
+    "metadata": null,
+    "createdAt": "2025-09-06T20:34:28.591Z"
+  },
+  "05dce440-7ec5-4634-9993-16a888c6e32a": {
+    "id": "05dce440-7ec5-4634-9993-16a888c6e32a",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Eddy logged in",
+    "metadata": null,
+    "createdAt": "2025-09-06T20:37:32.027Z"
+  },
+  "4aa0beff-a4d2-4ab2-9e7e-8e1b7e3faf46": {
+    "id": "4aa0beff-a4d2-4ab2-9e7e-8e1b7e3faf46",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "bc857ab1-2d04-4d0e-8f6b-735f4eb3b9b3",
+    "action": "project_created",
+    "description": "Created new project: New",
+    "metadata": {
+      "template": "blank"
+    },
+    "createdAt": "2025-09-06T20:38:53.331Z"
+  },
+  "c85e43f3-8cfe-452e-8665-6b0898b3f398": {
+    "id": "c85e43f3-8cfe-452e-8665-6b0898b3f398",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "bc857ab1-2d04-4d0e-8f6b-735f4eb3b9b3",
+    "action": "project_started",
+    "description": "Started project: New",
+    "metadata": null,
+    "createdAt": "2025-09-06T20:39:03.125Z"
+  },
+  "b0385574-4509-41d1-a87a-8d3a1654f82d": {
+    "id": "b0385574-4509-41d1-a87a-8d3a1654f82d",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Eddy logged in",
+    "metadata": null,
+    "createdAt": "2025-09-06T20:48:33.103Z"
+  },
+  "05f56a00-3ed5-497c-bbaf-0aeccb4debbe": {
+    "id": "05f56a00-3ed5-497c-bbaf-0aeccb4debbe",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "project_deleted",
+    "description": "Deleted project: New",
+    "metadata": null,
+    "createdAt": "2025-09-06T20:50:39.137Z"
+  },
+  "c0aad60f-b14b-414f-8758-8b44631fd4c0": {
+    "id": "c0aad60f-b14b-414f-8758-8b44631fd4c0",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "project_created",
+    "description": "Created new project: New",
+    "metadata": {
+      "template": "blank"
+    },
+    "createdAt": "2025-09-06T20:50:53.995Z"
+  },
+  "0a4a327e-7cd7-41ed-92e6-6af6a8b86911": {
+    "id": "0a4a327e-7cd7-41ed-92e6-6af6a8b86911",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Eddy logged in",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:00:18.850Z"
+  },
+  "c6923452-7d5b-4d6a-945d-80e922723158": {
+    "id": "c6923452-7d5b-4d6a-945d-80e922723158",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "command_executed",
+    "description": "Executed command: ls",
+    "metadata": {
+      "command": "ls",
+      "output": "index.js\npackage.json\n",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T21:01:52.483Z"
+  },
+  "67b051b5-62ad-4ef3-8caa-cd79611f9303": {
+    "id": "67b051b5-62ad-4ef3-8caa-cd79611f9303",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "command_executed",
+    "description": "Executed command: cat index.js",
+    "metadata": {
+      "command": "cat index.js",
+      "output": "// Welcome to your new Node.js project!\nconsole.log(\"Hello from New!\");\n\n// Your code goes here...\n",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T21:02:18.307Z"
+  },
+  "f1a74300-0f48-486e-b522-b59ab42e594b": {
+    "id": "f1a74300-0f48-486e-b522-b59ab42e594b",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "command_executed",
+    "description": "Executed command: cat package.json",
+    "metadata": {
+      "command": "cat package.json",
+      "output": "{\n  \"name\": \"new\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node index.js\",\n    \"dev\": \"node index.js\"\n  },\n  \"dependencies\": {}\n}",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T21:02:47.144Z"
+  },
+  "3f9aadbd-88c6-4ce4-b29d-69d3494233e5": {
+    "id": "3f9aadbd-88c6-4ce4-b29d-69d3494233e5",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "command_executed",
+    "description": "Executed command: mkdir test",
+    "metadata": {
+      "command": "mkdir test",
+      "output": "",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T21:03:02.024Z"
+  },
+  "da115ce2-43cd-41b6-be1b-2b9ebabddb1f": {
+    "id": "da115ce2-43cd-41b6-be1b-2b9ebabddb1f",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "command_executed",
+    "description": "Executed command: mkdir test",
+    "metadata": {
+      "command": "mkdir test",
+      "output": "",
+      "error": "mkdir: cannot create directory ‘test’: File exists\n",
+      "exitCode": 1
+    },
+    "createdAt": "2025-09-06T21:03:04.093Z"
+  },
+  "26a7cebe-98db-4e00-925f-12edf8e88b9c": {
+    "id": "26a7cebe-98db-4e00-925f-12edf8e88b9c",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "command_executed",
+    "description": "Executed command: ls",
+    "metadata": {
+      "command": "ls",
+      "output": "index.js\npackage.json\ntest\n",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T21:03:20.281Z"
+  },
+  "7e28f8b6-8d9b-433a-8c72-514a6af44296": {
+    "id": "7e28f8b6-8d9b-433a-8c72-514a6af44296",
+    "userId": "admin",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Adegboyega logged in",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:20:45.729Z"
+  },
+  "e89728a0-a3b2-4742-ad98-34aafe71ef49": {
+    "id": "e89728a0-a3b2-4742-ad98-34aafe71ef49",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Eddy logged in",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:21:58.162Z"
+  },
+  "a9f570e6-f829-4fb4-a2b1-08955105e303": {
+    "id": "a9f570e6-f829-4fb4-a2b1-08955105e303",
+    "userId": "admin",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Adegboyega logged in",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:29:10.386Z"
+  },
+  "9a53db35-d7df-4436-b486-8ede70f3c87f": {
+    "id": "9a53db35-d7df-4436-b486-8ede70f3c87f",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Eddy logged in",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:29:57.362Z"
+  },
+  "46440770-1761-4e11-ac40-74df9fa89a29": {
+    "id": "46440770-1761-4e11-ac40-74df9fa89a29",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "file_modified",
+    "description": "Modified file: index.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:32:05.449Z"
+  },
+  "6aa2ffd2-9a26-4680-8e64-bed925fdd3a8": {
+    "id": "6aa2ffd2-9a26-4680-8e64-bed925fdd3a8",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "startup_command_updated",
+    "description": "Updated startup command: node index.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:32:19.370Z"
+  },
+  "a85e29ad-95d6-459b-9300-f40c809ebf2a": {
+    "id": "a85e29ad-95d6-459b-9300-f40c809ebf2a",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "project_started",
+    "description": "Started project: New",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:32:39.329Z"
+  },
+  "f4e6fc2b-a2b7-4950-bfee-6e21a22822ca": {
+    "id": "f4e6fc2b-a2b7-4950-bfee-6e21a22822ca",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "command_executed",
+    "description": "Executed command: node index.js",
+    "metadata": {
+      "command": "node index.js",
+      "output": "✨✨✨ MOTIVATION BOOST ✨✨✨\n\n💡 Believe you can and you're halfway there.\n\n🚀 Go make it happen!\n\n",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T21:32:57.030Z"
+  },
+  "ff36bd6e-eb5b-49a1-b137-79e5dc31904e": {
+    "id": "ff36bd6e-eb5b-49a1-b137-79e5dc31904e",
+    "userId": "admin",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Adegboyega logged in",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:50:05.435Z"
+  },
+  "e6030c3c-d773-4723-ad8d-9e3aa499efea": {
+    "id": "e6030c3c-d773-4723-ad8d-9e3aa499efea",
+    "userId": "admin",
+    "projectId": "4e9ae009-0244-473e-8133-030f93d7a23d",
+    "action": "project_created",
+    "description": "Created new project: Ibukun",
+    "metadata": {
+      "template": "blank"
+    },
+    "createdAt": "2025-09-06T21:51:42.518Z"
+  },
+  "fae8d6b0-a65c-4c94-b931-ca2e9536001d": {
+    "id": "fae8d6b0-a65c-4c94-b931-ca2e9536001d",
+    "userId": "admin",
+    "projectId": "4e9ae009-0244-473e-8133-030f93d7a23d",
+    "action": "startup_command_updated",
+    "description": "Updated startup command: node index.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:52:18.094Z"
+  },
+  "4d34c64f-8903-44ef-85d4-5df6b6e0442f": {
+    "id": "4d34c64f-8903-44ef-85d4-5df6b6e0442f",
+    "userId": "admin",
+    "projectId": "4e9ae009-0244-473e-8133-030f93d7a23d",
+    "action": "command_executed",
+    "description": "Executed command: node index.js",
+    "metadata": {
+      "command": "node index.js",
+      "output": "Hello from Ibukun!\n",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T21:52:22.906Z"
+  },
+  "e469e9b0-bea8-4182-9f07-63cc88fdca04": {
+    "id": "e469e9b0-bea8-4182-9f07-63cc88fdca04",
+    "userId": "admin",
+    "projectId": "4e9ae009-0244-473e-8133-030f93d7a23d",
+    "action": "zip_extracted",
+    "description": "Extracted ZIP file to project",
+    "metadata": null,
+    "createdAt": "2025-09-06T21:53:23.078Z"
+  },
+  "56a2c16f-b719-49e9-ba57-dc17b40bb79b": {
+    "id": "56a2c16f-b719-49e9-ba57-dc17b40bb79b",
+    "userId": "admin",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Adegboyega logged in",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:26:56.559Z"
+  },
+  "051ed28e-c4e6-4393-a3a1-2be29e630910": {
+    "id": "051ed28e-c4e6-4393-a3a1-2be29e630910",
+    "userId": "admin",
+    "projectId": null,
+    "action": "project_deleted",
+    "description": "Deleted project: Ibukun",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:27:25.854Z"
+  },
+  "727cc39e-5a9e-46d5-b6cb-5c5207349abf": {
+    "id": "727cc39e-5a9e-46d5-b6cb-5c5207349abf",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "project_created",
+    "description": "Created new project: Edward",
+    "metadata": {
+      "template": "blank"
+    },
+    "createdAt": "2025-09-06T23:27:55.220Z"
+  },
+  "8d53b81f-c6c6-49f9-9133-03ff99dda878": {
+    "id": "8d53b81f-c6c6-49f9-9133-03ff99dda878",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: rm -rf index.js ; package.json",
+    "metadata": {
+      "command": "rm -rf index.js ; package.json",
+      "output": "",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T23:28:31.102Z"
+  },
+  "400917cf-bd31-4762-9ff6-6fff9662685e": {
+    "id": "400917cf-bd31-4762-9ff6-6fff9662685e",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: ls",
+    "metadata": {
+      "command": "ls",
+      "output": "",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T23:28:41.390Z"
+  },
+  "2386825a-db74-4c8e-a1f5-eda6c79bc907": {
+    "id": "2386825a-db74-4c8e-a1f5-eda6c79bc907",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "file_modified",
+    "description": "Modified file: package.json",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:29:32.426Z"
+  },
+  "703d2c0c-a9c3-4041-8bf4-5f15971e9b87": {
+    "id": "703d2c0c-a9c3-4041-8bf4-5f15971e9b87",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: ls",
+    "metadata": {
+      "command": "ls",
+      "output": "package.json\n",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T23:31:42.614Z"
+  },
+  "e574f00c-4851-4d11-8cc2-128605c2d0c8": {
+    "id": "e574f00c-4851-4d11-8cc2-128605c2d0c8",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: touch config.js",
+    "metadata": {
+      "command": "touch config.js",
+      "output": "",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T23:33:07.944Z"
+  },
+  "c15b1f1d-79ab-422f-9281-79035cf93323": {
+    "id": "c15b1f1d-79ab-422f-9281-79035cf93323",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: ls",
+    "metadata": {
+      "command": "ls",
+      "output": "config.js\npackage.json\n",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T23:33:13.416Z"
+  },
+  "fd830638-43be-43ce-8806-59e18569b430": {
+    "id": "fd830638-43be-43ce-8806-59e18569b430",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: mkdir p",
+    "metadata": {
+      "command": "mkdir p",
+      "output": "",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T23:33:47.887Z"
+  },
+  "93fb79b5-ab3f-4db2-aaa0-6007cb299ac8": {
+    "id": "93fb79b5-ab3f-4db2-aaa0-6007cb299ac8",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "file_modified",
+    "description": "Modified file: package.json",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:34:43.181Z"
+  },
+  "0b8244f4-8d5a-4431-ae1d-2df9ec470e4a": {
+    "id": "0b8244f4-8d5a-4431-ae1d-2df9ec470e4a",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "file_modified",
+    "description": "Modified file: config.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:35:10.757Z"
+  },
+  "a67aa08c-aeb3-4c5b-9c55-7403fcc94e48": {
+    "id": "a67aa08c-aeb3-4c5b-9c55-7403fcc94e48",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: touch edward-telegram.js",
+    "metadata": {
+      "command": "touch edward-telegram.js",
+      "output": "",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T23:35:36.929Z"
+  },
+  "99fe4e02-50fc-477d-8862-dd5345c49044": {
+    "id": "99fe4e02-50fc-477d-8862-dd5345c49044",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "file_modified",
+    "description": "Modified file: config.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:35:42.610Z"
+  },
+  "6f742232-265d-46c0-a9c7-7f2ffd254204": {
+    "id": "6f742232-265d-46c0-a9c7-7f2ffd254204",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "file_modified",
+    "description": "Modified file: edward-telegram.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:36:04.521Z"
+  },
+  "bf8284f6-9689-40ce-b5df-1bdfd0fe3259": {
+    "id": "bf8284f6-9689-40ce-b5df-1bdfd0fe3259",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "startup_command_updated",
+    "description": "Updated startup command: npm install : node edward-telegram.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:36:39.873Z"
+  },
+  "0832f9cc-23c0-4d4c-bd93-8ba23589085d": {
+    "id": "0832f9cc-23c0-4d4c-bd93-8ba23589085d",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: npm install : node edward-telegram.js",
+    "metadata": {
+      "command": "npm install : node edward-telegram.js",
+      "output": "",
+      "error": "npm error code EINVALIDTAGNAME\nnpm error Invalid tag name \":\" of package \":\": Tags may not have any characters that encodeURIComponent encodes.\nnpm error A complete log of this run can be found in: /home/runner/.npm/_logs/2025-09-06T23_36_43_456Z-debug-0.log\n",
+      "exitCode": 1
+    },
+    "createdAt": "2025-09-06T23:36:43.767Z"
+  },
+  "3ab3bda3-75f6-4197-912b-5bf0c5a56aeb": {
+    "id": "3ab3bda3-75f6-4197-912b-5bf0c5a56aeb",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "file_modified",
+    "description": "Modified file: package.json",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:37:15.572Z"
+  },
+  "e1fb3f8a-b4cb-4753-800f-df08df6f5e40": {
+    "id": "e1fb3f8a-b4cb-4753-800f-df08df6f5e40",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: npm install",
+    "metadata": {
+      "command": "npm install",
+      "output": "\nadded 130 packages, and audited 131 packages in 23s\n\n24 packages are looking for funding\n  run `npm fund` for details\n\nfound 0 vulnerabilities\n",
+      "error": "npm warn deprecated crypto@1.0.1: This package is no longer supported. It's now a built-in Node module. If you've depended on crypto, you should switch to the one that's built-in.\n",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T23:37:25.033Z"
+  },
+  "34046f4b-e5fd-47b8-b6f7-e4feadd88a82": {
+    "id": "34046f4b-e5fd-47b8-b6f7-e4feadd88a82",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: npm install",
+    "metadata": {
+      "command": "npm install",
+      "output": "\nadded 130 packages, and audited 131 packages in 17s\n\n24 packages are looking for funding\n  run `npm fund` for details\n\nfound 0 vulnerabilities\n",
+      "error": "npm warn deprecated crypto@1.0.1: This package is no longer supported. It's now a built-in Node module. If you've depended on crypto, you should switch to the one that's built-in.\n",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T23:37:25.065Z"
+  },
+  "8eda3de0-828e-4e4e-aa16-fad4a1255af5": {
+    "id": "8eda3de0-828e-4e4e-aa16-fad4a1255af5",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: npm install : node edward-telegram.js",
+    "metadata": {
+      "command": "npm install : node edward-telegram.js",
+      "output": "",
+      "error": "npm error code EINVALIDTAGNAME\nnpm error Invalid tag name \":\" of package \":\": Tags may not have any characters that encodeURIComponent encodes.\nnpm error A complete log of this run can be found in: /home/runner/.npm/_logs/2025-09-06T23_37_42_679Z-debug-0.log\n",
+      "exitCode": 1
+    },
+    "createdAt": "2025-09-06T23:37:43.055Z"
+  },
+  "78f4571e-ea85-47d9-b2c5-8d65e2450557": {
+    "id": "78f4571e-ea85-47d9-b2c5-8d65e2450557",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "startup_command_updated",
+    "description": "Updated startup command: npm install ; node edward-telegram.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:37:58.783Z"
+  },
+  "6faaca6a-8aac-47e8-9373-31df80efa458": {
+    "id": "6faaca6a-8aac-47e8-9373-31df80efa458",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "startup_command_updated",
+    "description": "Updated startup command: npm install ; node edward-telegram.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:38:03.046Z"
+  },
+  "38b4f2a3-72b3-4a8f-9c2b-72371d5e0bb8": {
+    "id": "38b4f2a3-72b3-4a8f-9c2b-72371d5e0bb8",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "startup_command_updated",
+    "description": "Updated startup command: npm install ; node edward-telegram.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:38:05.543Z"
+  },
+  "15819108-e99c-450a-a7a7-56b3454d11e1": {
+    "id": "15819108-e99c-450a-a7a7-56b3454d11e1",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: npm install ; node edward-telegram.js",
+    "metadata": {
+      "command": "npm install ; node edward-telegram.js",
+      "output": "",
+      "error": "npm error code EINVALIDTAGNAME\nnpm error Invalid tag name \";\" of package \";\": Tags may not have any characters that encodeURIComponent encodes.\nnpm error A complete log of this run can be found in: /home/runner/.npm/_logs/2025-09-06T23_38_11_390Z-debug-0.log\n",
+      "exitCode": 1
+    },
+    "createdAt": "2025-09-06T23:38:11.762Z"
+  },
+  "4ab6bd07-2068-48ae-ba37-f2a1a3273778": {
+    "id": "4ab6bd07-2068-48ae-ba37-f2a1a3273778",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "file_modified",
+    "description": "Modified file: edward-telegram.js",
+    "metadata": null,
+    "createdAt": "2025-09-06T23:38:43.976Z"
+  },
+  "aba3689d-43af-4501-8fe7-47100d540e78": {
+    "id": "aba3689d-43af-4501-8fe7-47100d540e78",
+    "userId": "admin",
+    "projectId": "11ac2fd8-e576-48e0-86bb-6b0a581f59a3",
+    "action": "command_executed",
+    "description": "Executed command: node edward-telegram.js",
+    "metadata": {
+      "command": "node edward-telegram.js",
+      "output": "Starting Edward Crasher Telegram Bot...\n\n╔══════════════════════════════════════╗\n║          EDWARD CRASHER v3.0         ║\n║      Telegram + WhatsApp Edition     ║\n║         Created by Edward Tech       ║\n╚══════════════════════════════════════╝\n    \n\n╔══════════════════════════════════════╗\n║     WHATSAPP DISCONNECTED            ║\n║     Reason: QR refs attempts ended     ║\n╚══════════════════════════════════════╝\n                \nAttempting to reconnect...\n\n╔══════════════════════════════════════╗\n║          EDWARD CRASHER v3.0         ║\n║      Telegram + WhatsApp Edition     ║\n║         Created by Edward Tech       ║\n╚══════════════════════════════════════╝\n    \n\n╔══════════════════════════════════════╗\n║     WHATSAPP DISCONNECTED            ║\n║     Reason: Connection Failure     ║\n╚══════════════════════════════════════╝\n                \n",
+      "error": "Failed to start bot: TelegramError: 409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running\n    at Telegram.callApi (/home/runner/workspace/user_projects/Edward_11ac2fd8-e576-48e0-86bb-6b0a581f59a3/node_modules/telegraf/lib/core/network/client.js:315:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async [Symbol.asyncIterator] (/home/runner/workspace/user_projects/Edward_11ac2fd8-e576-48e0-86bb-6b0a581f59a3/node_modules/telegraf/lib/core/network/polling.js:30:33)\n    at async Polling.loop (/home/runner/workspace/user_projects/Edward_11ac2fd8-e576-48e0-86bb-6b0a581f59a3/node_modules/telegraf/lib/core/network/polling.js:73:30)\n    at async Telegraf.launch (/home/runner/workspace/user_projects/Edward_11ac2fd8-e576-48e0-86bb-6b0a581f59a3/node_modules/telegraf/lib/telegraf.js:194:13)\n    at async startBot (/home/runner/workspace/user_projects/Edward_11ac2fd8-e576-48e0-86bb-6b0a581f59a3/edward-telegram.js:705:9) {\n  response: {\n    ok: false,\n    error_code: 409,\n    description: 'Conflict: terminated by other getUpdates request; make sure that only one bot instance is running'\n  },\n  on: {\n    method: 'getUpdates',\n    payload: { timeout: 50, offset: 0, allowed_updates: [] }\n  }\n}\n",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-06T23:41:15.116Z"
+  },
+  "aa39124b-5259-4007-93f4-85f8f021bbd9": {
+    "id": "aa39124b-5259-4007-93f4-85f8f021bbd9",
+    "userId": "admin",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Adegboyega logged in",
+    "metadata": null,
+    "createdAt": "2025-09-07T20:05:06.614Z"
+  },
+  "0835635b-df50-46a6-af6a-4483b37517ec": {
+    "id": "0835635b-df50-46a6-af6a-4483b37517ec",
+    "userId": "admin",
+    "projectId": null,
+    "action": "admin_coins_updated",
+    "description": "Admin updated coins for user Adegboyega: +200",
+    "metadata": null,
+    "createdAt": "2025-09-07T20:05:38.759Z"
+  },
+  "d61f73e6-082d-4de7-85be-358266453353": {
+    "id": "d61f73e6-082d-4de7-85be-358266453353",
+    "userId": "admin",
+    "projectId": null,
+    "action": "admin_coins_updated",
+    "description": "Admin updated coins for user Eddy: +200",
+    "metadata": null,
+    "createdAt": "2025-09-07T20:05:46.400Z"
+  },
+  "5ffcd4db-6c12-4d47-9ece-3e7028018623": {
+    "id": "5ffcd4db-6c12-4d47-9ece-3e7028018623",
+    "userId": "admin",
+    "projectId": null,
+    "action": "admin_broadcast",
+    "description": "Admin sent broadcast message to all users: Hi...",
+    "metadata": {
+      "message": "Hi",
+      "target": "all"
+    },
+    "createdAt": "2025-09-07T20:06:31.783Z"
+  },
+  "2b7a605d-4a11-42e2-bb32-e5f1383282f8": {
+    "id": "2b7a605d-4a11-42e2-bb32-e5f1383282f8",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Eddy logged in",
+    "metadata": null,
+    "createdAt": "2025-09-07T20:07:15.052Z"
+  },
+  "774bb5d5-da7a-4857-952f-363edbf1bf23": {
+    "id": "774bb5d5-da7a-4857-952f-363edbf1bf23",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Eddy logged in",
+    "metadata": null,
+    "createdAt": "2025-09-07T20:12:18.043Z"
+  },
+  "91fc2ef5-e3c4-4058-8303-92a3c29f2ca4": {
+    "id": "91fc2ef5-e3c4-4058-8303-92a3c29f2ca4",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Eddy logged in",
+    "metadata": null,
+    "createdAt": "2025-09-07T20:23:52.057Z"
+  },
+  "49c3f733-c5bb-400d-a291-8a893dd8d039": {
+    "id": "49c3f733-c5bb-400d-a291-8a893dd8d039",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "folder_created",
+    "description": "Created folder: Test",
+    "metadata": null,
+    "createdAt": "2025-09-07T20:25:12.447Z"
+  },
+  "a058b959-b73d-4a70-a8f8-6b62d7dd699e": {
+    "id": "a058b959-b73d-4a70-a8f8-6b62d7dd699e",
+    "userId": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "projectId": "f7c15e62-bec2-40b2-84b8-04f757171e6a",
+    "action": "folder_deleted",
+    "description": "Deleted folder: Test",
+    "metadata": null,
+    "createdAt": "2025-09-07T20:25:23.969Z"
+  },
+  "ce3dbcdb-aa8c-4935-b1dc-ad8dff7792a7": {
+    "id": "ce3dbcdb-aa8c-4935-b1dc-ad8dff7792a7",
+    "userId": "08146b67-6f51-4e12-8d4b-17390e4533ae",
+    "projectId": null,
+    "action": "user_registered",
+    "description": "User Ibukun registered",
+    "metadata": null,
+    "createdAt": "2025-09-07T23:10:55.585Z"
+  },
+  "4861ba3b-5567-4534-af37-822caa4e0816": {
+    "id": "4861ba3b-5567-4534-af37-822caa4e0816",
+    "userId": "admin",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Adegboyega logged in",
+    "metadata": null,
+    "createdAt": "2025-09-07T23:12:23.691Z"
+  },
+  "b7e1e954-dbc5-4616-9784-9e1b90aac754": {
+    "id": "b7e1e954-dbc5-4616-9784-9e1b90aac754",
+    "userId": "admin",
+    "projectId": null,
+    "action": "admin_broadcast",
+    "description": "Admin sent broadcast message to all users: Hi...",
+    "metadata": {
+      "message": "Hi",
+      "target": "all"
+    },
+    "createdAt": "2025-09-07T23:13:11.264Z"
+  },
+  "a08a35a9-0085-46fc-b8de-6c563f0d01e3": {
+    "id": "a08a35a9-0085-46fc-b8de-6c563f0d01e3",
+    "userId": "08146b67-6f51-4e12-8d4b-17390e4533ae",
+    "projectId": null,
+    "action": "user_login",
+    "description": "User Ibukun logged in",
+    "metadata": null,
+    "createdAt": "2025-09-07T23:14:32.196Z"
+  },
+  "db7c9350-8019-4e80-a862-2557b7c43fd8": {
+    "id": "db7c9350-8019-4e80-a862-2557b7c43fd8",
+    "userId": "08146b67-6f51-4e12-8d4b-17390e4533ae",
+    "projectId": "81488552-568d-4383-be42-d72642771a66",
+    "action": "project_created",
+    "description": "Created new project: Ibukuns",
+    "metadata": {
+      "template": "blank"
+    },
+    "createdAt": "2025-09-07T23:14:51.771Z"
+  },
+  "3af61118-84bc-4a4d-99d6-42e89f09387f": {
+    "id": "3af61118-84bc-4a4d-99d6-42e89f09387f",
+    "userId": "08146b67-6f51-4e12-8d4b-17390e4533ae",
+    "projectId": "81488552-568d-4383-be42-d72642771a66",
+    "action": "project_archived",
+    "description": "Archived project: Ibukuns",
+    "metadata": null,
+    "createdAt": "2025-09-07T23:16:06.130Z"
+  },
+  "e4addff1-0535-46f7-bfb0-250b0ea9e0db": {
+    "id": "e4addff1-0535-46f7-bfb0-250b0ea9e0db",
+    "userId": "08146b67-6f51-4e12-8d4b-17390e4533ae",
+    "projectId": "81488552-568d-4383-be42-d72642771a66",
+    "action": "command_executed",
+    "description": "Executed command: npm start",
+    "metadata": {
+      "command": "npm start",
+      "output": "\n> ibukuns@1.0.0 start\n> node index.js\n\nHello from Ibukuns!\n",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-07T23:16:23.739Z"
+  },
+  "2d923b59-d886-47b1-9b25-6cb65efca7b2": {
+    "id": "2d923b59-d886-47b1-9b25-6cb65efca7b2",
+    "userId": "08146b67-6f51-4e12-8d4b-17390e4533ae",
+    "projectId": "81488552-568d-4383-be42-d72642771a66",
+    "action": "command_executed",
+    "description": "Executed command: npm start",
+    "metadata": {
+      "command": "npm start",
+      "output": "\n> ibukuns@1.0.0 start\n> node index.js\n\nHello from Ibukuns!\n",
+      "error": "",
+      "exitCode": 0
+    },
+    "createdAt": "2025-09-07T23:16:31.764Z"
+  }
+}

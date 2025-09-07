@@ -1,0 +1,30 @@
+{
+  "name": "edward-crasher-telegram",
+  "version": "3.0.0",
+  "description": "EDWARD CRASHER - Advanced Telegram WhatsApp Bug Tool",
+  "main": "edward-telegram.js",
+  "scripts": {
+    "start": "node edward-telegram.js",
+    "dev": "nodemon edward-telegram.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "@whiskeysockets/baileys": "^6.4.0",
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "moment-timezone": "^0.5.45",
+    "pino": "^8.15.0",
+    "qrcode-terminal": "^0.12.0",
+    "fs": "0.0.1-security"
+  },
+  "keywords": [
+    "whatsapp",
+    "telegram",
+    "bot",
+    "crasher",
+    "edward"
+  ],
+  "author": "Edward",
+  "license": "MIT"
+}

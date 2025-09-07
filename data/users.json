@@ -1,0 +1,45 @@
+{
+  "admin": {
+    "id": "admin",
+    "username": "Adegboyega",
+    "email": "admin@edwardpanels.com",
+    "password": "ce2ae7998b1a296b2481dd5db57edea44867029a9b0afa7b3407dc0077de7aa5",
+    "coinBalance": 999999,
+    "isAdmin": true,
+    "createdAt": "2025-09-06T20:18:38.110Z",
+    "updatedAt": "2025-09-07T23:12:23.689Z",
+    "deviceFingerprints": [
+      "1d1c84f3ef528acefe681f2d6a6e56afdb9eb04ae980ba20d2fcfe92c3ddaf94"
+    ],
+    "ipAddresses": [
+      "105.115.10.33"
+    ]
+  },
+  "ad1d395e-a1dd-407a-b255-53c5c89c67b8": {
+    "id": "ad1d395e-a1dd-407a-b255-53c5c89c67b8",
+    "username": "Eddy",
+    "email": "eddy@gmail.com",
+    "password": "3fbedb3cef1c9f52ed4b36f96218ea5b30766552a802e0c3607985c83f19fd06",
+    "coinBalance": 1000,
+    "isAdmin": false,
+    "createdAt": "2025-09-06T20:28:58.696Z",
+    "updatedAt": "2025-09-07T20:05:46.399Z"
+  },
+  "08146b67-6f51-4e12-8d4b-17390e4533ae": {
+    "id": "08146b67-6f51-4e12-8d4b-17390e4533ae",
+    "username": "Ibukun",
+    "email": "imbalan.offbeatu1@hidmail.org",
+    "password": "0609c17b1afa242dcc8ca8fb90cb0c1c50cfe9a0cc2fafc0facce29920ca780f",
+    "coinBalance": 800,
+    "isAdmin": false,
+    "createdAt": "2025-09-07T23:10:55.583Z",
+    "updatedAt": "2025-09-07T23:14:51.770Z",
+    "deviceFingerprints": [
+      "1d1c84f3ef528acefe681f2d6a6e56afdb9eb04ae980ba20d2fcfe92c3ddaf94",
+      "8a6454ffc6798fd308fd99955e6467de2e081ac107a93fcfa7dd4f5b55f8d354"
+    ],
+    "ipAddresses": [
+      "105.115.10.33"
+    ]
+  }
+}
